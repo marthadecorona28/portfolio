@@ -10,7 +10,7 @@
 <font size=30>
 <body bgcolor=#F2C4D0>
 <h1><u>PORTFOLIO</h1></u>
-MARTHA DE CORONA
+<h2>MARTHA DE CORONA</h2>
 
 </font>
 <ul type=disc>
